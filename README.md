@@ -32,4 +32,6 @@ This is a React application that allows users to refer others and earn rewards. 
    You can deploy the application using services like Vercel, Netlify, or GitHub Pages.
 
 ## Author
-Your Name
+Yash Bodade
+## LINKEDIN
+https://www.linkedin.com/in/yash-bodade-pradip/
