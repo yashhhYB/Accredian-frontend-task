@@ -1,4 +1,4 @@
-# Refer Earn App
+# Refer Earn 
 
 ## Description
 This is a React application that allows users to refer others and earn rewards. The app includes features such as a header, footer, and modal functionality.
